@@ -10,8 +10,8 @@ Gosto muito da busca pelo conhecimento e encontrei na Programação uma missão 
 
 ## Linguagens
 <div style="display: inline_block"><br>
- <img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
-  <img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/C_SHARP.png" alt="C#" width="40" height="40"/></a>
-  <img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
-  <img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/PYTHON.png"/>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/C_SHARP.png"/>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/RUBY.jpg"/>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/JAVA.png"/>
 </div>
