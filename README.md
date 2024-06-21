@@ -10,6 +10,7 @@ Gosto muito da busca pelo conhecimento e encontrei na Programação uma missão 
 
 ## Linguagens
 <div style="display: inline_block"><br>
+ <a href="https://github.com/diegopcruz">
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/PYTHON.png"/>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/C_SHARP.png"/>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/RUBY.jpg"/>
