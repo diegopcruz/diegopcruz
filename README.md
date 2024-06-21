@@ -1,6 +1,6 @@
 <div style="display: inline_block"><br>
  <a href="https://github.com/diegopcruz">
- <img align="center" alt="Diego-Capa" width="1280" height="640" src="https://plataforma.refatorando.com.br/wp-content/uploads/2024/01/Git_Contracapa.webp">
+ <img align="center" alt="Diego-Capa" width="640px" height="320px" src="https://plataforma.refatorando.com.br/wp-content/uploads/2024/01/Git_Contracapa.webp">
  </a>
 </div>
 
