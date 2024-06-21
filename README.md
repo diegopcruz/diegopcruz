@@ -10,8 +10,9 @@ Gosto muito da busca pelo conhecimento e encontrei na Programação uma missão 
 
 ## Linguagens
 <div style="display: inline_block"><br>
- <a href="https://github.com/VILHALVA/CURSO-DE-PYTHON" target="_blank" rel="noreferrer"><img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
-  <a href="https://github.com/VILHALVA/CURSO-DE-C-SHARP" target="_blank" rel="noreferrer"><img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/C_SHARP.png" alt="C#" width="40" height="40"/></a>
-  <a href="https://github.com/VILHALVA/CURSO-DE-RUBY" target="_blank" rel="noreferrer"><img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
-  <a href="https://github.com/VILHALVA/CURSO-DE-JAVA" target="_blank" rel="noreferrer"><img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
+ <a href="https://github.com/VILHALVA" target="_blank" rel="noreferrer">
+  <img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/PYTHON.png" alt="PYTHON" width="40" height="40"/></a>
+  <img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/C_SHARP.png" alt="C#" width="40" height="40"/></a>
+  <img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/RUBY.jpg" alt="RUBY" width="40" height="40"/></a>
+  <img src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/JAVA.png" alt="JAVA" width="40" height="40"/></a> 
 </div>
