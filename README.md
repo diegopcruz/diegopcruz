@@ -22,6 +22,12 @@
 
 <br>
 
+<div>     
+ 	<a href="https://x.com/Diegopcruzdev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-02569B?logo=x&logoColor=black&style=for-the-badge" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/diegopcruz-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 ## 01- LINGUAGENS
 <div style="display: inline_block"><br>
  <a href="https://github.com/diegopcruz">
@@ -29,15 +35,24 @@
   <img align="center" alt="Diego-C_SHARP" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/C_SHARP.png"/>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/RUBY.jpg"/>
   <img align="center" alt="Diego-Java" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/JAVA.png"/>
+ </a> 
 </div>
   
 <br>
 
-## 02- MINHAS ESTATÍSTICAS
+## 02 - FRAMEWORKS
+<div style="display: inline_block"><br>
+ <a href="https://github.com/diegopcruz">
+  - EM CONSTRUÇÃO
+ </a> 
+</div>
+
+<br>
+
+## 03- MINHAS ESTATÍSTICAS
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=diegopcruz&show_icons=true&theme=dark&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=diegopcruz&hide=html,css,java,shaderlab,kotlin,hlsl&theme=dark">
 </p>
 
 <br>
-
