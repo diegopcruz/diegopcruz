@@ -1,15 +1,15 @@
 <div style="display: inline_block"><br>
  <a href="https://github.com/diegopcruz">
- <img align="center" alt="Diego-Capa" width="640px" height="320px" src="https://plataforma.refatorando.com.br/wp-content/uploads/2024/01/Git_Contracapa.webp">
+ <img align="center" alt="Diego-Capa" width="1080px" height="420px" src="https://plataforma.refatorando.com.br/wp-content/uploads/2024/01/Git_Contracapa.webp">
  </a>
 </div>
 
 <br>
 
-<h5>
+<h4>
  Olá, Eu sou o Diego Cruz. Iniciei minha carreira na área de Técnico em Quícica e atualmente estou estudando para migrar de área. Faço faculdade de Tec. Análise Desenvolvimentos de Sistemas na Universidade Presbiteriana Mackenzie desde agosto de 2023. 
  Gosto muito da busca pelo conhecimento e encontrei na Programação uma missão de vida. Confesso não ser fácil essa jornada e acompanhar todas as mudanças e atualizações que a carreira e a área nos proporciona, mas bora pra cima buscar ser cada dia uma versão melhor que a do dia anterior. 👊🏾
-</h5>
+</h4>
 
 <br>
 
@@ -56,3 +56,8 @@
 </p>
 
 <br>
+
+## 04 - CERTIFICADOS
+<div style="display: inline_block">
+ 
+</div>
