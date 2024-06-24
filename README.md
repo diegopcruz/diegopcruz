@@ -61,3 +61,14 @@
 <div style="display: inline_block">
  
 </div>
+
+![Snake animation](https://github.com/diegopcruz/diegopcruz/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=diegopcruz&repo=diegopcruz&theme=react)](https://github.com/diegopcruz/diegopcruz)
+
+<br>
+<br>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
