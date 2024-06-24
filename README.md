@@ -6,6 +6,10 @@
 
 <br>
 
+![snake gif](https://github.com/diegopcruz/diegopcruz/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
 <h4>
  Olá, Eu sou o Diego Cruz. Iniciei minha carreira na área de Técnico em Quícica e atualmente estou estudando para migrar de área. Faço faculdade de Tec. Análise Desenvolvimentos de Sistemas na Universidade Presbiteriana Mackenzie desde agosto de 2023. 
  Gosto muito da busca pelo conhecimento e encontrei na Programação uma missão de vida. Confesso não ser fácil essa jornada e acompanhar todas as mudanças e atualizações que a carreira e a área nos proporciona, mas bora pra cima buscar ser cada dia uma versão melhor que a do dia anterior. 👊🏾
@@ -62,11 +66,8 @@
  
 </div>
 
-![snake gif](https://github.com/diegopcruz/diegopcruz/blob/output/github-contribution-grid-snake.gif)
-
-<br>
 <br>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OBRIGADO+PELA+ATENÇÃO!;" />
 </h1>
