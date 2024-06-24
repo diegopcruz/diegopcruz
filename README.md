@@ -62,9 +62,7 @@
  
 </div>
 
-![Snake animation](https://github.com/diegopcruz/diegopcruz/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=diegopcruz&repo=diegopcruz&theme=react)](https://github.com/diegopcruz/diegopcruz)
+![snake gif](https://github.com/diegopcruz/diegopcruz/blob/output/github-contribution-grid-snake.gif)
 
 <br>
 <br>
