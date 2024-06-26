@@ -76,6 +76,8 @@
 <div style="display: inline_block">
  <a href="https://www.dio.me/certificate/R6H0UNSZ/share">
  <img align="center" alt="NET DEVELOPER" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/NET%20DEVELOPER.jpg"/></a>
+ <a href="https://www.udemy.com/certificate/UC-9e9456ea-a63f-4fe3-a4ff-09d88b8a0ad2/">
+ <img align="center" alt="C# Iniciante Udemy" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/CURSO%20C%23%20INICIANTE%20UDEMY.jpg"/></a>
 </div>
 
 <br>
