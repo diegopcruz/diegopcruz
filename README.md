@@ -6,10 +6,6 @@
 
 <br>
 
-![snake gif](https://github.com/diegopcruz/diegopcruz/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br>
-
 <h4>
  Olá, Eu sou o Diego Cruz. Iniciei minha carreira na área de Técnico em Quícica e atualmente estou estudando para migrar de área. Faço faculdade de Tec. Análise Desenvolvimentos de Sistemas na Universidade Presbiteriana Mackenzie desde agosto de 2023. 
  Gosto muito da busca pelo conhecimento e encontrei na Programação uma missão de vida. Confesso não ser fácil essa jornada e acompanhar todas as mudanças e atualizações que a carreira e a área nos proporciona, mas bora pra cima buscar ser cada dia uma versão melhor que a do dia anterior. 👊🏾
@@ -73,15 +69,17 @@
 <br>
 
 ## 05 - CERTIFICADOS
-<div style="display: inline_block">
+<div style="display: inline">
  <a href="https://www.dio.me/certificate/R6H0UNSZ/share">
- <img align="center" alt="NET DEVELOPER" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/NET%20DEVELOPER.jpg"/></a>
+  <img align="center" alt="NET DEVELOPER" height="60" width="70" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/NET%20DEVELOPER.jpg"/>
+ </a>
  <a href="https://www.udemy.com/certificate/UC-9e9456ea-a63f-4fe3-a4ff-09d88b8a0ad2/">
- <img align="center" alt="C# Iniciante Udemy" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/CURSO%20C%23%20INICIANTE%20UDEMY.jpg"/></a>
+  <img align="center" alt="C# Iniciante Udemy" height="60" width="70" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/CURSO%20C%23%20INICIANTE%20UDEMY.jpg"/>
+ </a>
 </div>
 
 <br>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OBRIGADO+PELA+ATENÇÃO!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OBRIGADO+PELA+ATENÇÃO!;"/>
 </h1>
