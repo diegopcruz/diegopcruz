@@ -74,7 +74,7 @@
 
 ## 05 - CERTIFICADOS
 <div style="display: inline_block">
- <a href="https://web.dio.me/track/formacao-dotnet-developer?tab=certificate">
+ <a href="https://www.dio.me/certificate/R6H0UNSZ/share">
  <img align="center" alt="NET DEVELOPER" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/NET%20DEVELOPER.jpg"/></a>
 </div>
 
