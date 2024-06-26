@@ -35,10 +35,10 @@
 ## 01- LINGUAGENS
 <div style="display: inline_block"><br>
  <a href="https://github.com/diegopcruz">
- <img align="center" alt="Diego-Python" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/PYTHON.png"/>
-  <img align="center" alt="Diego-C_SHARP" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/C_SHARP.png"/>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/RUBY.jpg"/>
-  <img align="center" alt="Diego-Java" height="30" width="40" src="https://github.com/diegopcruz/perfilgithub/blob/main/FOTOS/JAVA.png"/>
+  <img align="center" alt="Diego-Python" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/PYTHON.png"/>
+  <img align="center" alt="Diego-C_SHARP" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/C_SHARP.png"/>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/RUBY.jpg"/>
+  <img align="center" alt="Diego-Java" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/JAVA.png"/>
  </a> 
 </div>
   
@@ -53,7 +53,18 @@
 
 <br>
 
-## 03- MINHAS ESTATÍSTICAS
+## 03 - BANCO DE DADOS
+
+<div style="display: inline_block"><br>
+ <a href="https://github.com/diegopcruz">
+  <img align="center" alt="Diego-MONGODB" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/MONGODB.png"/>
+  <img align="center" alt="Diego-SQL_Server" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/Microsoft-SQL-Server-Logo-2.png"/>
+ </a> 
+</div>
+
+<br>
+
+## 04- MINHAS ESTATÍSTICAS
 <p align = "center">
  <img  src = "https://github-readme-stats.vercel.app/api?username=diegopcruz&theme=dark&line_height=27"/>
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=diegopcruz&langs_count=8&theme=dark"/>  
@@ -61,9 +72,10 @@
 
 <br>
 
-## 04 - CERTIFICADOS
+## 05 - CERTIFICADOS
 <div style="display: inline_block">
- 
+ <a href="https://web.dio.me/track/formacao-dotnet-developer?tab=certificate">
+ <img align="center" alt="NET DEVELOPER" height="30" width="40" src="https://github.com/diegopcruz/diegopcruz/blob/main/.Image/NET%20DEVELOPER.jpg"/></a>
 </div>
 
 <br>
