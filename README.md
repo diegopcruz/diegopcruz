@@ -13,11 +13,6 @@
 
 <br>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br>
-
 - 🧑🏼‍💻 Atualmente trabalho como Técnico em Química
 - 💻 Migrando de Carreira para Dev
 - 🤓 Curso: Java e C#
